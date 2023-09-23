@@ -178,6 +178,7 @@ header .image-text .header-text{
     margin:0;
     font-family: Arial;
     border: border-box;
+   
 }
 .navbar{
     height: 60px;
@@ -293,10 +294,10 @@ color: whitesmoke;
 
 .hero-section{
     background-image:url(/Let_s_CONNECT/images/3d-smartphone-device-with-map-gps-technology_23-2150458983.avif);
-    justify-content: space-evenly;
-
+    justify-content: center;
+background-position:center;
     background-size: cover;
-    height: 800px;
+    height:800px;
 
 
 
@@ -306,12 +307,14 @@ color: whitesmoke;
 
 .hero-msg{
     color:  rgb(234, 243, 251);
+background-position:center;
+
     height: 20px;
     background-color: transparent;
     font-size: 7rem;
 top: 150px;
 position: relative;
-margin-left: 180px;
+margin-left: 100px;
 
 
 }
@@ -321,11 +324,13 @@ margin-left: 180px;
 }
 .sec-hero{
     color: rgb(178, 172, 172);
+background-position:center;
+
     font-size:1.5rem;
     top: 250px;
     position: relative;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 130px;
     font: weight 1000rem;;
     display: flex;
     word-spacing: 1px;
