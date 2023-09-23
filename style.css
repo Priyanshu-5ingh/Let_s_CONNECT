@@ -17,7 +17,7 @@
    
 }
 .logo{
-    background-image: url(CONNECT-removebg-preview\ .png);
+    background-image: url(/Let_s_CONNECT/images/CONNECT-removebg-preview\ .png);
     height: 55px;
     background-size: cover;
     width: 80%;
@@ -116,7 +116,7 @@ color: whitesmoke;
 /**  hero section **/
 
 .hero-section{
-    background-image:url(https://img.freepik.com/free-photo/3d-smartphone-device-with-map-gps-technology_23-2150458983.jpg?t=st=1695302089~exp=1695305689~hmac=ec62848dc3355bee76ad4db7caf4f17c358a311306e30fce3b52e1767e66d9f4&w=1800);
+    background-image:url(/Let_s_CONNECT/images/3d-smartphone-device-with-map-gps-technology_23-2150458983.avif);
     justify-content: space-evenly;
 
     background-size: cover;
